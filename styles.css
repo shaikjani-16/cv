@@ -13,3 +13,23 @@ hr {
 img {
   height: 200px;
 }
+h1
+{
+  color:#EF9F9F;
+}
+h2
+{
+  color:#B20600;
+}
+
+h3
+{
+  color:#FFCD38;
+}
+a[href] {
+  color: #00FFFF;
+}
+th
+{
+  color:#E6BA95;
+}
